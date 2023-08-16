@@ -1,3 +1,4 @@
+#counting of vowels andconsonants without using grep
 echo "Enter a string"
 read s
 vowel=0
